@@ -1,0 +1,406 @@
+Elementary/Primary School
+Elementary Education
+Primary Education
+Middle School
+Middle School Education
+Junior High School
+High School
+High School Diploma
+Secondary School Certificate
+HSC
+Higher Secondary Certificate
+SSC
+Secondary School Certificate
+CBSE
+Central Board of Secondary Education
+ICSE
+Indian Certificate of Secondary Education
+Diploma
+Diploma
+Certificate
+Certificate Course
+ITI
+Industrial Training Institute
+Polytechnic
+Polytechnic Diploma
+B.Tech
+Bachelor of Technology
+B.E
+Bachelor of Engineering
+B.Sc
+Bachelor of Science
+BCA
+Bachelor of Computer Applications
+B.Arch
+Bachelor of Architecture
+B.Pharm
+Bachelor of Pharmacy
+BDS
+Bachelor of Dental Surgery
+MBBS
+Bachelor of Medicine, Bachelor of Surgery
+BVSc
+Bachelor of Veterinary Science
+B.Optom
+Bachelor of Optometry
+B.Biotech
+Bachelor of Biotechnology
+B.Microbiology
+Bachelor of Microbiology
+B.Physics
+Bachelor of Physics
+B.Chemistry
+Bachelor of Chemistry
+B.Mathematics
+Bachelor of Mathematics
+B.Statistics
+Bachelor of Statistics
+B.Geology
+Bachelor of Geology
+B.Geography
+Bachelor of Geography
+B.Forestry
+Bachelor of Forestry
+B.Agri
+Bachelor of Agriculture
+B.Hort
+Bachelor of Horticulture
+B.FishSci
+Bachelor of Fisheries Science
+B.Food Tech
+Bachelor of Food Technology
+B.Textile
+Bachelor of Textile Technology
+B.Com
+Bachelor of Commerce
+BBA
+Bachelor of Business Administration
+B.Econ
+Bachelor of Economics
+BFM
+Bachelor of Financial Management
+B.Acc
+Bachelor of Accounting
+B.Banking
+Bachelor of Banking
+B.Insurance
+Bachelor of Insurance
+B.Taxation
+Bachelor of Taxation
+B.Audit
+Bachelor of Auditing
+BA
+Bachelor of Arts
+B.Litt
+Bachelor of Literature
+B.Mus
+Bachelor of Music
+BFA
+Bachelor of Fine Arts
+B.Design
+Bachelor of Design
+B.Journalism
+Bachelor of Journalism
+B.Mass Comm
+Bachelor of Mass Communication
+B.History
+Bachelor of History
+B.Philosophy
+Bachelor of Philosophy
+B.Psychology
+Bachelor of Psychology
+B.Sociology
+Bachelor of Sociology
+B.Anthropology
+Bachelor of Anthropology
+B.Political Science
+Bachelor of Political Science
+B.Public Admin
+Bachelor of Public Administration
+B.Social Work
+Bachelor of Social Work
+B.Linguistics
+Bachelor of Linguistics
+B.Translation
+Bachelor of Translation Studies
+LLB
+Bachelor of Laws
+BA LLB
+Bachelor of Arts, Bachelor of Laws
+B.Com LLB
+Bachelor of Commerce, Bachelor of Laws
+B.Sc LLB
+Bachelor of Science, Bachelor of Laws
+BLS
+Bachelor of Legal Studies
+B.Ed
+Bachelor of Education
+B.P.Ed
+Bachelor of Physical Education
+B.El.Ed
+Bachelor of Elementary Education
+B.Sp.Ed
+Bachelor of Special Education
+B.Lib
+Bachelor of Library Science
+B.Hotel Management
+Bachelor of Hotel Management
+B.Tourism
+Bachelor of Tourism
+B.Event Management
+Bachelor of Event Management
+B.Fashion Design
+Bachelor of Fashion Design
+B.Interior Design
+Bachelor of Interior Design
+B.Physiotherapy
+Bachelor of Physiotherapy
+B.Nursing
+Bachelor of Nursing
+B.Occupational Therapy
+Bachelor of Occupational Therapy
+M.Tech
+Master of Technology
+M.E
+Master of Engineering
+M.Sc
+Master of Science
+MCA
+Master of Computer Applications
+M.Arch
+Master of Architecture
+M.Pharm
+Master of Pharmacy
+MDS
+Master of Dental Surgery
+MS
+Master of Surgery
+MD
+Doctor of Medicine
+MVSc
+Master of Veterinary Science
+M.Optom
+Master of Optometry
+M.Biotech
+Master of Biotechnology
+M.Microbiology
+Master of Microbiology
+M.Physics
+Master of Physics
+M.Chemistry
+Master of Chemistry
+M.Mathematics
+Master of Mathematics
+M.Statistics
+Master of Statistics
+M.Geology
+Master of Geology
+M.Geography
+Master of Geography
+M.Forestry
+Master of Forestry
+M.Agri
+Master of Agriculture
+M.Hort
+Master of Horticulture
+M.FishSci
+Master of Fisheries Science
+M.Food Tech
+Master of Food Technology
+M.Com
+Master of Commerce
+MBA
+Master of Business Administration
+PGDM
+Post Graduate Diploma in Management
+M.Econ
+Master of Economics
+MFM
+Master of Financial Management
+M.Acc
+Master of Accounting
+M.Banking
+Master of Banking
+M.Insurance
+Master of Insurance
+M.Taxation
+Master of Taxation
+M.Audit
+Master of Auditing
+EMBA
+Executive Master of Business Administration
+Global MBA
+Global Master of Business Administration
+MA
+Master of Arts
+M.Litt
+Master of Literature
+M.Mus
+Master of Music
+MFA
+Master of Fine Arts
+M.Design
+Master of Design
+M.Journalism
+Master of Journalism
+M.Mass Comm
+Master of Mass Communication
+M.History
+Master of History
+M.Philosophy
+Master of Philosophy
+M.Psychology
+Master of Psychology
+M.Sociology
+Master of Sociology
+M.Anthropology
+Master of Anthropology
+M.Political Science
+Master of Political Science
+M.Public Admin
+Master of Public Administration
+M.Social Work
+Master of Social Work
+M.Linguistics
+Master of Linguistics
+M.Translation
+Master of Translation Studies
+LLM
+Master of Laws
+MLS
+Master of Legal Studies
+M.Ed
+Master of Education
+M.P.Ed
+Master of Physical Education
+M.El.Ed
+Master of Elementary Education
+M.Sp.Ed
+Master of Special Education
+M.Lib
+Master of Library Science
+M.Hotel Management
+Master of Hotel Management
+M.Tourism
+Master of Tourism
+M.Event Management
+Master of Event Management
+M.Fashion Design
+Master of Fashion Design
+M.Interior Design
+Master of Interior Design
+M.Physiotherapy
+Master of Physiotherapy
+M.Nursing
+Master of Nursing
+M.Occupational Therapy
+Master of Occupational Therapy
+PhD
+Doctor of Philosophy
+D.Litt
+Doctor of Literature
+D.Sc
+Doctor of Science
+D.Tech
+Doctor of Technology
+D.Eng
+Doctor of Engineering
+D.Agri
+Doctor of Agriculture
+D.Mus
+Doctor of Music
+D.Ed
+Doctor of Education
+D.P.Ed
+Doctor of Physical Education
+DM
+Doctor of Medicine (Doctorate in Medicine)
+M.Ch
+Master of Chirurgiae (Doctorate in Surgery)
+JSD
+Doctor of Juridical Science
+SJD
+Doctor of Juridical Science
+LLD
+Doctor of Laws
+D.Pharm
+Doctor of Pharmacy
+DDS
+Doctor of Dental Surgery
+D.Vet.Sc
+Doctor of Veterinary Science
+DBA
+Doctor of Business Administration
+D.Min
+Doctor of Ministry
+Psy.D
+Doctor of Psychology
+D.Nursing
+Doctor of Nursing Practice
+D.Physiotherapy
+Doctor of Physiotherapy
+Post-Doc
+Post-Doctoral Research
+D.Sc (Honoris Causa)
+Doctor of Science (Honorary)
+D.Litt (Honoris Causa)
+Doctor of Literature (Honorary)
+LLD (Honoris Causa)
+Doctor of Laws (Honorary)
+PGDCA
+Post Graduate Diploma in Computer Applications
+PGDM
+Post Graduate Diploma in Management
+PGDBM
+Post Graduate Diploma in Business Management
+PGDIT
+Post Graduate Diploma in Information Technology
+PGDBA
+Post Graduate Diploma in Business Administration
+PGDHRM
+Post Graduate Diploma in Human Resource Management
+PGDFM
+Post Graduate Diploma in Financial Management
+PGDMM
+Post Graduate Diploma in Marketing Management
+PGDOM
+Post Graduate Diploma in Operations Management
+PGDIM
+Post Graduate Diploma in International Management
+PGDRD
+Post Graduate Diploma in Rural Development
+PGDJMC
+Post Graduate Diploma in Journalism and Mass Communication
+PGDAV
+Post Graduate Diploma in Audio Visual Production
+PGDCS
+Post Graduate Diploma in Cyber Security
+PGDDS
+Post Graduate Diploma in Data Science
+Associate Degree
+Associate of Arts
+Associate of Science
+Bachelor's Degree
+Bachelor of Arts
+Bachelor of Science
+Bachelor of Engineering
+Master's Degree
+Master of Arts
+Master of Science
+Master of Engineering
+Doctoral Degree
+Doctor of Philosophy
+Doctor of Medicine
+Doctor of Law
+NVQ
+National Vocational Qualification
+BTEC
+Business and Technology Education Council
+HND
+Higher National Diploma
+HNC
+Higher National Certificate
+NCC
+National Cadet Corps
+NCC Certificate
+National Cadet Corps Certificate

@@ -1,0 +1,208 @@
+python
+java
+c++
+sql
+machine learning
+deep learning
+nlp
+excel
+tableau
+html
+css
+javascript
+django
+flask
+react
+node.js
+git
+pandas
+numpy
+linux
+aws
+communication
+leadership
+3D Modeling
+AR/VR Development
+Accounting
+Adaptability
+Adobe Illustrator
+Adobe Photoshop
+Adobe Premiere Pro
+Adobe XD
+Agile
+Android Development
+Angular
+Animation
+Ansible
+Art Direction
+AutoCAD
+Azure
+BigQuery
+Bitbucket
+Blender
+Blockchain
+Bookkeeping
+Brand Strategy
+Budgeting
+Business Analysis
+C#
+CI/CD
+CNC Machining
+CRM Management
+CSS
+Calendar Management
+Canva
+Carpentry
+Change Management
+Client Relations
+Collaboration
+Conflict Resolution
+Content Creation
+Content Marketing
+Contract Negotiation
+Contract Review
+Copywriting
+Creative Direction
+Creativity
+Critical Thinking
+Curriculum Design
+Customer Support
+Cybersecurity
+Data Visualisation
+Data Engineering
+Data Analysis
+Data Entry
+Data Science
+Decision Making
+DevOps
+Docker
+Document Management
+Driving
+EMR Systems
+ETL
+Electrical Repair
+Email Marketing
+Embedded Systems
+Emotional Intelligence
+Empathy
+Ethical Hacking
+Event Planning
+Final Cut Pro
+Financial Analysis
+Financial Reporting
+Figma
+Game Development
+GCP
+GitHub
+Google Ads
+Google Analytics
+Google Workspace
+GraphQL
+HIPAA Compliance
+HVAC
+Hadoop
+Help Desk
+IT Support
+IoT Development
+JIRA
+KPI Tracking
+Keras
+Kubernetes
+Language Teaching
+Lean
+Legal Research
+Lesson Planning
+Linux
+Localization
+MS Office
+Market Research
+Matplotlib
+Maya
+Medical Billing
+Medical Coding
+Medical Terminology
+Meeting Coordination
+Mobile App Development
+MongoDB
+Multilingual
+Negotiation
+Network Security
+NoSQL
+Note Taking
+OKR Management
+OOP
+OpenCV
+Operations Management
+Oracle DB
+Patient Care
+Payroll
+Penetration Testing
+Photography
+Plumbing
+PostgreSQL
+Power BI
+Presentation Skills
+Problem-solving
+Process Improvement
+Product Management
+Project Management
+Public Speaking
+PyTorch
+QuickBooks
+REST APIs
+React Native
+Regulatory Compliance
+Risk Management
+SAS
+SEM
+SEO
+SPSS
+Scheduling
+Scrum
+Seaborn
+Six Sigma
+Sketch
+Smart Contracts
+Snowflake
+Social Media Marketing
+Solidity
+Spark
+Stakeholder Communication
+Storyboarding
+Strategic Planning
+Supply Chain Management
+System Design
+Tax Preparation
+Teaching
+Teamwork
+Technical Support
+Technical Writing
+TensorFlow
+Terraform
+Time Management
+Transcreation
+Transcription
+Translation
+Typing
+Typography
+UX/UI Design
+Unity
+Unreal Engine
+Vendor Management
+Video Editing
+Virtual Assistance
+Vue.js
+Welding
+Windows Server
+Work Ethic
+ZBrush
+eLearning Development
+iOS Development
+AI
+BERT
+Transformers
+
+
+# pip install pyresparser streamlit
+# python -m nltk.downloader stopwords punkt words averaged_perceptron_tagger maxent_ne_chunker
+# python -m spacy download en_core_web_sm
